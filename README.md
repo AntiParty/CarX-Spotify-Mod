@@ -20,3 +20,10 @@ Follow these simple steps to set up the CarX-Spotify mod:
 
 4. **Launch the Game:**
    - Open the game and click the "Spotify Auth" button to complete the setup.
+
+- ToDo (Dev checklist)
+  - [x] Increase Volume
+  - [x] Decrease Volume
+  - [ ] Make Token refresh automatically
+  - [ ] Display song name+author in toolbox
+  - [ ] Display song image
