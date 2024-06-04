@@ -24,6 +24,6 @@ Follow these simple steps to set up the CarX-Spotify mod:
 - ToDo (Dev checklist)
   - [x] Increase Volume
   - [x] Decrease Volume
-  - [ ] Make Token refresh automatically
+  - [x] Make Token refresh automatically
   - [ ] Display song name+author in toolbox
   - [ ] Display song image
