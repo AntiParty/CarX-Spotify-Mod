@@ -3,7 +3,7 @@
 ## Setup Guide
 
 Follow these simple steps to set up the CarX-Spotify mod:
-
+## Only works with Spotify Premium 
 1. **Check Files:**
    - Ensure you have `config.json` and `SpotifyMod.zm` in your mods folder.
    - if u dont have `config.json` start the game and it should create it
