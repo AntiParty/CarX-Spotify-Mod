@@ -27,3 +27,6 @@ Follow these simple steps to set up the CarX-Spotify mod:
   - [x] Make Token refresh automatically
   - [ ] Display song name+author in toolbox
   - [ ] Display song image
+
+# Common Error's 
+ - Failed to skip song: Forbidden(API is not available to be used in your country)
